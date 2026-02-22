@@ -1,74 +1,34 @@
-Visualization Tool for Electric Vehicle Charge and Range Analysis
-1. Project Overview
-This project analyzes Electric Vehicle (EV) market performance and EV charging infrastructure using interactive dashboards developed in Tableau Public.
-The goal is to provide data-driven insights into EV range, pricing, efficiency, powertrain distribution, and charging station availability across India.
-2. Problem Statement
-With rapid EV adoption, it is important to:
-Identify top-performing EV brands
-Compare range, efficiency, pricing, and speed
-Understand charging infrastructure distribution
-Analyze regional accessibility of charging stations
-This project delivers structured visual insights to support EV market evaluation.
-3. Tools & Technologies
-Tableau Public – Data Visualization
-CSV Datasets – EV Market and Charging Infrastructure
-GitHub – Version Control & Documentation
-4. Datasets Used
-ElectricCarData_Clean.csv
-Brand
-Model
-Range (Km)
-Price (Lakhs)
-Efficiency (Wh/Km)
-Top Speed (Km/H)
-PowerTrain
-Body Style
-EVIndia.csv
-Region
-Charging Station Locations
-Power Type
-Address Details
-5. Dashboard Structure
-A. EV Market Analysis Dashboard
-Top 10 Electric Vehicles by Driving Range
-Price Comparison Across Brands
-Efficiency Comparison
-Top Speed by Brand
-Brand Distribution by PowerTrain
-Body Style Analysis
-Number of Models by Brand
-B. EV Charging Infrastructure Dashboard
-Charging Stations by Region
-EV Charging Stations Map of India
-Power Type Distribution
-Regional Infrastructure Comparison
-6. Key Insights
-Premium brands lead in driving range and top speed.
-Significant price variation exists between global and Indian EV models.
-Charging infrastructure is unevenly distributed across regions.
-Major metro regions show higher charging station density.
-SUV and Compact SUV body styles dominate the EV segment.
-Battery Electric Vehicles (BEV) are the dominant powertrain type.
-7. Project Achievements
-Built 8+ interactive visualizations
-Designed 2 structured dashboards
-Applied calculated fields and aggregations
-Implemented filters and segmentation
-Designed clean dashboard layouts
-Delivered business-focused analytical storytelling
-8. Skills Demonstrated
-Data Visualization
-Data Preparation
-Dashboard Design
-Analytical Thinking
-Business Insight Generation
-Tableau Calculations
-Interactive Filtering
-Map-Based Visualization
-9. Live Dashboard Links
-Tableau Public Profile:
-https://public.tableau.com/app/profile/shaik.sana.siddiq/vizzes⁠�
-EV Charging Infrastructure Dashboard:
-https://public.tableau.com/app/profile/shaik.sana.siddiq/viz/EVChargingInfrastructureAnalysis/ChargingStationinindia⁠�
-10. Conclusion
-This project demonstrates practical data visualization capabilities applied to real-world EV industry analysis, delivering meaningful insights into both EV market performance and charging infrastructure distribution.
+EV Market & Charging Infrastructure Analysis
+Overview
+This project analyzes Electric Vehicle (EV) performance and charging infrastructure distribution using interactive dashboards built in Tableau Public. The objective is to understand EV market trends and evaluate infrastructure availability across India.
+Datasets Used
+ElectricCarData_Clean.csv – Brand, Model, Range, Price, Efficiency, Top Speed, PowerTrain, Body Style
+EVIndia.csv – Region, Charging Station Locations, Power Type
+Analysis Performed
+EV Market Analysis
+Top EVs by driving range
+Price comparison across brands
+Efficiency and top speed analysis
+Powertrain and body style distribution
+Model count by brand
+Charging Infrastructure Analysis
+Charging stations by region
+Power type distribution
+Geographic map visualization of stations
+Key Findings
+Premium brands lead in range and performance metrics.
+SUV and Compact SUV segments dominate the EV market.
+Battery Electric Vehicles (BEVs) are the most common powertrain type.
+Charging infrastructure is concentrated in major metro regions.
+Tools & Skills
+Tableau Public
+Data aggregation & calculated fields
+Interactive filters
+Comparative and map-based visualizations
+Dashboard design and analytical storytelling
+Live Dashboard
+Tableau Profile:
+https://public.tableau.com/app/profile/shaik.sana.siddiqa/vizzes
+
+Charging Infrastructure Dashboard:
+https://public.tableau.com/app/profile/shaik.sana.siddiqa/viz/EVChargingInfrastructureAnalysis/ChargingStationinindia
